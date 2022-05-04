@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **MERN,DSA,PHP**
+- 🌱 I’m currently learning **MERN,DSA,AI/ML**
 
 - 👯 I’m looking to collaborate on **Full Stack Development Project**
 
